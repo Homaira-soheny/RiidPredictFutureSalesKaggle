@@ -17,3 +17,12 @@ Data Fields:
 . item_name - name of the item
 . shop_name - name of the shop
 . item_category_name - name of item category
+Exploratory Data Analysis
+## Check versions
+import lighgbm as lgb
+import numpy as np
+import pandas pd
+import sklearn
+import dateutil
+import xgboost
+import catboost
